@@ -14,8 +14,6 @@ UltraDiff is a simple Bash script that compares two text files and generates two
    git clone https://github.com/emersunn/ultradiff.git
    ```
 
-   Replace `yourusername` with your GitHub username.
-
 2. Navigate to the cloned repository:
 
    ```
