@@ -1,4 +1,4 @@
-# UltraDiff
+# ultraDiff
 
 UltraDiff is a simple Bash script that compares two text files and generates two separate markdown files containing the differences. The script creates one file for lines present in the first file but not in the second, and another file for lines present in the second file but not in the first.
 
