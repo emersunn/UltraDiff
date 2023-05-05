@@ -50,7 +50,7 @@ UltraDiff is a simple Bash script that compares two text files and generates two
 
 ## Customization
 
-If you need to modify the UltraDiff script, you can open the `ultradiff.sh` file in your preferred text editor and make the necessary changes. Here are a few examples of modifications you might want to make:
+If you need to modify the ultraDiff script, you can open the `ultradiff.sh` file in your preferred text editor and make the necessary changes. Here are a few examples of modifications you might want to make:
 
 - Change the output directory: Modify the `output_file1` and `output_file2` variables to specify a different directory for the generated markdown files.
 - Change the output format: Modify the `echo` and `sed` commands within the script to adjust the format of the generated markdown files.
